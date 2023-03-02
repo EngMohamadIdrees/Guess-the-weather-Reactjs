@@ -1,2 +1,2 @@
-# Guess the wearthe  depend on Geographical location of the user
+# Guess the weather depend on Geographical location of the user
 ## https://guess-weather-of-user.netlify.app/
